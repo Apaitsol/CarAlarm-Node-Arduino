@@ -1,6 +1,9 @@
 
 # Created by https://www.gitignore.io/api/node
 
+#API Key#
+serviceAccount.json
+
 ### Node ###
 # Logs
 logs
